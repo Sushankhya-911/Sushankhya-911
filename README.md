@@ -9,6 +9,12 @@ I am a dedicated learner focused on balancing academic theory with technical app
 * **Saturday - Sunday**: Dedicated to project implementation and uploading my progress to GitHub.
 
   
+### 📊 My GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sushankhya-911&show_icons=true&include_all_commits=true&theme=radical)
+
+### 📈 Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sushankhya-911&layout=compact&theme=radical)
+  
 ### 🛠 Areas of Expertise & Interest
 <p>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
