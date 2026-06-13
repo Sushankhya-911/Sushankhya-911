@@ -7,6 +7,7 @@
 I am a dedicated learner focused on balancing academic theory with technical application.
 * **Monday - Friday**: Dedicated to learning, research, and theoretical study.
 * **Saturday - Sunday**: Dedicated to project implementation and uploading my progress to GitHub.
+
   
 ### 🛠 Areas of Expertise & Interest
 <p>
@@ -26,9 +27,10 @@ I am currently working with:
 * **Languages**: Python
 * **Focus Areas**: Machine Learning, Computer Vision, Natural Language Processing (NLP)
 
-### 📈 GitHub Stats
-![Sushankhya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sushankhya-911&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sushankhya-911&layout=compact&theme=radical)
+### 📊 GitHub Stats & Languages
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sushankhya-911&show_icons=true&hide=prs,contribs&include_all_commits=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sushankhya-911&layout=pie&theme=radical)
 
 ---
 
