@@ -28,9 +28,9 @@ I am currently working with:
 * **Focus Areas**: Machine Learning, Computer Vision, Natural Language Processing (NLP)
 
 ### 📊 GitHub Stats & Languages
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sushankhya-911&show_icons=true&hide=prs,contribs&include_all_commits=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sushankhya-911&layout=pie&theme=radical)
+### 📈 Activity & Growth
+![Contribution Heatmap](profile-summary-card-output/stats/activity-heatmap.png)
 
 ---
 
