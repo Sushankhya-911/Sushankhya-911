@@ -7,6 +7,7 @@
 I am a dedicated learner focused on balancing academic theory with technical application.
 * **Monday - Friday**: Dedicated to learning, research, and theoretical study.
 * **Saturday - Sunday**: Dedicated to project implementation and uploading my progress to GitHub.
+  
 ### 🛠 Areas of Expertise & Interest
 <p>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
@@ -20,6 +21,7 @@ I am a dedicated learner focused on balancing academic theory with technical app
   <img src="https://img.shields.io/badge/Business-FF5733?style=for-the-badge&logo=business-insider&logoColor=white" />
   <img src="https://img.shields.io/badge/Accountancy-28A745?style=for-the-badge&logo=cashapp&logoColor=white" />
 </p>
+
 ### 🛠 Tech Stack
 I am currently working with:
 * **Languages**: Python
