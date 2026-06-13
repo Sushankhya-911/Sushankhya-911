@@ -17,8 +17,7 @@ I am a dedicated learner focused on balancing academic theory with technical app
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/AI/ML-FF9900?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/Economics-4A90E2?style=for-the-badge&logo=google-analytics&logoColor=white" />
-  <img src="https://img.shields.io/badge/Micro/Macro-008080?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Business-FF5733?style=for-the-badge&logo=business-insider&logoColor=white" />
+  <img src="https://img.shields.io/badge/Business_Intelligence-FF5733?style=for-the-badge&logo=business-insider&logoColor=white" />
   <img src="https://img.shields.io/badge/Accountancy-28A745?style=for-the-badge&logo=cashapp&logoColor=white" />
 </p>
 
