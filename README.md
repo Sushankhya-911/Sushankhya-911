@@ -3,7 +3,23 @@
 <h3 align="center">A learner passionate about merging Business with IT.</h3>
 
 ---
-
+### 🗓 My Learning Philosophy
+I am a dedicated learner focused on balancing academic theory with technical application.
+* **Monday - Friday**: Dedicated to learning, research, and theoretical study.
+* **Saturday - Sunday**: Dedicated to project implementation and uploading my progress to GitHub.
+### 🛠 Areas of Expertise & Interest
+<p>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI/ML-FF9900?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Economics-4A90E2?style=for-the-badge&logo=google-analytics&logoColor=white" />
+  <img src="https://img.shields.io/badge/Micro/Macro-008080?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Business-FF5733?style=for-the-badge&logo=business-insider&logoColor=white" />
+  <img src="https://img.shields.io/badge/Accountancy-28A745?style=for-the-badge&logo=cashapp&logoColor=white" />
+</p>
 ### 🛠 Tech Stack
 I am currently working with:
 * **Languages**: Python
